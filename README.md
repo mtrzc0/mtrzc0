@@ -8,7 +8,7 @@ typedef struct {
 
 profile_t mateusz = {
   .age = 21;
-  .interests = "operating sytems";
+  .interests = "operating systems";
   .university = "AGH University of Science and Technology";
   .faculty = "Electronics and Telecomunication";
 }
