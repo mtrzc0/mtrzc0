@@ -8,9 +8,9 @@ typedef struct {
 } profile_t;
 
 profile_t mateusz = {
-  .age = 21;
-  .interests = "operating systems, compilers, antennas, physics";
-  .working_as = "Embedded Software Developer";
+  .age = 22;
+  .interests = "power electronics, antennas, physics";
+  .working_as = "soon :D";
   .university = "AGH University of Science and Technology";
   .faculty = "Electronics and Telecomunications";
 }
