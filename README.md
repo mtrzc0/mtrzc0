@@ -11,7 +11,7 @@ typedef struct {
 
 profile_t mateusz = {
   .age = 23;
-  .interests = "power electronics, microwaves, physics";
+  .interests = "electronics, physics";
   .working_as = "electrical engineer @ Woodward";
   .university = "AGH University of Science and Technology";
   .faculty = "Electronics and Telecomunications";
