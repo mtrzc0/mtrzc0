@@ -1,4 +1,6 @@
-```c 
+```c
+static const char* HELLO "EVERYONE";
+
 typedef struct {
   uint8_t age;
   char *interests;
