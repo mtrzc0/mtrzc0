@@ -1,5 +1,5 @@
 ```c
-static const char* HELLO "EVERYONE";
+static const char* HELLO = "EVERYONE";
 
 typedef struct {
   uint8_t age;
